@@ -1,7 +1,7 @@
 ### Hello! I'm Felicia
 
 <p align="center">
-  <img width="370" src="https://github.com/Felicious/Felicious/blob/master/bunbun.gif>
+  <img width="370" src="https://github.com/Felicious/Felicious/blob/master/bunbun.gif">
 </p>
 
 ## Writing Enthusiast and Developer
